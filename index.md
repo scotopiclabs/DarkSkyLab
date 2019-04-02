@@ -1,4 +1,4 @@
-![Pic du Midi](/assets/img/pic.jpg)
+![Light Pollution Simulation](/assets/img/banner.jpg)
 **ScotopicLabs** is a small company specialized in two specific areas:
 - Light pollution and its impacts on ecosystems;
 - Embedded astronomy systems.
