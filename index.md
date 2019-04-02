@@ -1,4 +1,5 @@
-ScotopicLabs is a small company specialized in two specific areas:
+![Pic du Midi](/assets/img/pic.jpg)
+**ScotopicLabs** is a small company specialized in two specific areas:
 - Light pollution and its impacts on ecosystems;
 - Embedded astronomy systems.
 
